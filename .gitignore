@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+# apoio
+/apoio/
+
 # production
 /build
 
